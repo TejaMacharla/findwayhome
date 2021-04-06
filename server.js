@@ -47,7 +47,7 @@ app.use(express.static(publicDirectoryPath))
     //     })
  
 
-app.get('/findway',(req,res)=>{
+app.get('/',(req,res)=>{
     res.render('findwayhome')
 })
 app.get('/buy',(req,res)=>{
