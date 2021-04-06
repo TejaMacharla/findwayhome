@@ -39,7 +39,7 @@ function changeImage() {
 
 window.onload = changeImage;
 alert("thank you for visiting our website")
-function getDateTime() {
+/*function getDateTime() {
     var now     = new Date(); 
     var year    = now.getFullYear();
     var month   = now.getMonth()+1; 
@@ -64,7 +64,7 @@ function getDateTime() {
     }   
     var dateTime = year+'/'+month+'/'+day+' '+hour+':'+minute+':'+second;   
      return dateTime;
-}
+}*/
 
 // example usage: realtime clock
 setInterval(function(){
