@@ -1,0 +1,106 @@
+.navbar-brand img{
+    width: 150px;
+}
+a li{
+    padding-right: 50px;
+}
+body{
+    background: url("D:/Rupe/Power_Pics/bkgd5.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+html{
+    height: 100%;
+}
+.container{
+    text-align: center;
+    padding-top:12%;
+}
+.container h1{
+    font-size: 3.5em;
+    color: white;
+    font-family: Georgia, serif;
+}
+.container li {
+    display: inline-block;
+    font-size: 25px;
+    border:1px solid white;
+    width:150px;
+    color: white;
+    border-radius: 5px;
+}
+.container li a{
+    color: white;
+    text-decoration: none;
+    font-family: Georgia, serif;
+}
+.container li:hover{
+    text-transform: uppercase;
+    background-color:black;
+}
+#one{
+padding-top: 5px;
+    padding-left:80px;
+    padding-bottom: 10px;
+}
+#two{
+    font-weight: bolder;
+    padding-bottom: 10px;
+    letter-spacing: 3px;
+}
+#three{
+font-size: 15px;
+letter-spacing: 5px;
+}
+#four{
+text-align: right;
+border:1px solid black;
+padding: 12px;
+background-color: blue;
+color: white;
+font-weight: bolder;
+padding-left: 25px;
+padding-right: 25px;
+border-radius: 4px;
+}
+#four a{
+    text-decoration: none;
+    color: white;
+    text-align: right;
+    
+
+}
+.navbar{
+    background-color:#1a2166;
+}
+#six{
+    color:white;
+    
+}
+#seven{
+    border-bottom: 2px white;
+}
+.aa{
+    color:#5d69e3;
+}
+#mar{
+    font-size: 20px;
+    padding-top: 150px;
+    font-weight: bold;
+    font-family: cursive;
+}
+#digital-clock{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Impact;
+    border:2px solid white;
+    width: 300px;
+    margin-left: 600px;
+    border-radius: 35px;
+    height: 60px;
+    padding-top: 10px;
+    background-color: wheat;
+}
